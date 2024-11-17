@@ -1,6 +1,6 @@
 public class PatternSpace {
     public static void main(String[] args) {
-        int rows = 5;
+
 
         // Row 1
         for (int i = 0; i < 4; i++) {
